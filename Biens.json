@@ -1,21 +1,6 @@
-{
-  "posts": [
+ [
         {
-          "id": 1,
-          "title": "stock",
-          "body": "Vue.js is cool"
-        },
-        {
-          "id": 2,
-          "title": "Post",
-          "body": "Javascript is cool"
-        }
-      ],
-
-
-
-  "biens": [
-        {
+            "id":"1",
             "address_line1": "50 rue chat",
             "ville": "Montauban",
             "type": "Villa",
@@ -25,6 +10,7 @@
             "description": " C'est une villa très charmante, avec son jardin exposé coté sud .........."
         },
         {
+            "id":"2",
             "address_line1": "231 rue THOR",
             "ville": "Bruxelle",
             "type": "Appartment",
@@ -34,6 +20,7 @@
             "description": " C'est un appartement très charmant, avec son balcon exposé coté sud .........."
         },
         {
+            "id":"3",
             "address_line1": "74 avenue de bravour",
             "ville": "Mons",
             "type": "Bengalo",
@@ -43,6 +30,7 @@
             "description": " C'est un bengalo très charmant, avec sa terrasse aménagée.........."
         },
         {
+            "id":"4",
             "address_line1": "24 rue de strasbourg",
             "ville": "Paris",
             "type": "Villa",
@@ -52,7 +40,9 @@
             "description": " C'est une villa très charmante, avec son jardin exposé coté sud .........."
         },
         {
-            "address_line1": "434 rue générale de Gaulle",
+            "id":"5",
+          
+           "address_line1": "434 rue générale de Gaulle",
             "ville": "Bordeau",
             "type": "Villa",
             "prix": "239845",
@@ -61,6 +51,7 @@
             "description": " C'est une villa très charmante, avec son jardin exposé coté sud .........."
         },
         {
+            "id":"6",
             "address_line1": "56 rue zitoune",
             "ville": "Casablanca",
             "type": "Villa",
@@ -70,4 +61,3 @@
             "description": " C'est une villa très charmante, avec son jardin exposé coté sud .........."
         }
     ]
-}
